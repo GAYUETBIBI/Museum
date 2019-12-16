@@ -1,7 +1,19 @@
 # 博物馆APP
+
+## Product Requirement（产品说明文档）
+|  Title   |  Content   |
+| --- | --- |
+|  Target release（发布日期）   |   2019-12-16  |
+|   Epic（名称）  |   Keep Calling  |
+|  Document status(文档状态)   |   进行中  |
+|  Document owner(文件主人)   |  曾嘉悦   |
+|   Designer(领头的设计师)  |  曾嘉悦   |
+|   Developer(领头的开发者)  |  曾嘉悦   |    
+|   QA(领头的测试者)  |  曾嘉悦   |
+
 ### PRD 价值主张设计 15%
 PRD1.加值宣言 3%
-加值宣言：以机器学习或人工智能API对产品加值的表述是否精确丶专业及中肯
+
 
 PRD2.核心价值 3%
 核心价值宣言：加值的表述是否找到产品核心价值，也就是最小可用产品（Minimum Viable Product，最小可用产品），而不会过份夸大价值或只是点缀性质
