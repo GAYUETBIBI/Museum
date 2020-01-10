@@ -53,6 +53,6 @@
 APP中的语音识别功能和语音合成功能，运用百度AI的语音识别api与语音合成api。
 
 
-![展品解说](https://images.gitee.com/uploads/images/2020/0110/113020_4a184203_1648179.png "彩瓷.png")
+![展品解说](https://images.gitee.com/uploads/images/2020/0110/115433_ae4325e7_1648179.png "解说.png")
 
-
+![人脸识别](https://images.gitee.com/uploads/images/2020/0110/115234_b6744425_1648179.png "人脸识别.png")
